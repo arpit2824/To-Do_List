@@ -19,7 +19,7 @@ The Todo List App is a simple and efficient tool designed to help users organize
 - **JavaScript:**Handles the dynamic functionalities, such as adding, editing, and deleting tasks.
 ## Usage/Examples
 
-- **Add a New Task:**Enter a task in the input field and click the "Add" button to add it to your list.
+- **Add a New Task:** Enter a task in the input field and click the "Add" button to add it to your list.
 - **Edit or Delete a Task:** Click on a task to edit it, or click the delete icon to remove it from your list..
 - **Mark as Completed:** Click the checkbox next to a task to mark it as completed.
 - **Filter Tasks:** Use the filter options to view all tasks, only completed tasks, or only pending tasks.
