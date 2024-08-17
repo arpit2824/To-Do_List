@@ -16,7 +16,7 @@ The Todo List App is a simple and efficient tool designed to help users organize
 
 - **HTML:** For structuring the content of the application.
 - **CSS:** For styling and making the app visually appealing.
-- **JavaScript:**Handles the dynamic functionalities, such as adding, editing, and deleting tasks.
+- **JavaScript:** Handles the dynamic functionalities, such as adding, editing, and deleting tasks.
 ## Usage/Examples
 
 - **Add a New Task:** Enter a task in the input field and click the "Add" button to add it to your list.
